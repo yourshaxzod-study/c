@@ -1,15 +1,15 @@
 #include <stdio.h>
 
-int main() {
-    const int id = 12;
-    const int age = 18;
-    const float fee = 85.15;
-    const char grade = 'B';
+#define PI 3.14159
+#define MAX_SIZE 100
 
-    printf("ID: %d\n", id);
-    printf("Age: %d\n", age);
-    printf("Fee: %.2f\n", fee);
-    printf("Grade: %c\n", grade);
-    
+int main()
+{
+    const int days = 7;
+
+    printf("PI: %.5f\n", PI);
+    printf("Max size: %d\n", MAX_SIZE);
+    printf("Days in week: %d\n", days);
+
     return 0;
 }
