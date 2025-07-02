@@ -1,15 +1,14 @@
 #include <stdio.h>
 
-int main() {
-    int id = 12;
+int main()
+{
     int age = 18;
-    float fee = 85.15;
-    char grade = 'B';
+    float salary = 50000.5;
+    char grade = 'A';
 
-    printf("ID: %d\n", id);
     printf("Age: %d\n", age);
-    printf("Fee: %.2f\n", fee);
+    printf("Salary: %.2f\n", salary);
     printf("Grade: %c\n", grade);
-    
+
     return 0;
 }
