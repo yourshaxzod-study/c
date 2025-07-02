@@ -15,7 +15,6 @@ A comprehensive collection of C programming examples for learning purposes.
 - **09_memory_management**: Dynamic memory allocation.
 - **10_preprocessor**: Preprocessor directives and macros.
 - **11_practice**: Practical coding exercises.
-- **12_projects**: Mini projects and applications.
 
 ## Compilation
 
